@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "242898130104",
+    "project_id": "telegramview-77441",
+    "storage_bucket": "telegramview-77441.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242898130104:android:a952fe8f9e8f2d36a9504d",
+        "android_client_info": {
+          "package_name": "ru.sukhikh.telegramversion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242898130104-mgtva8fk1cpfb9u1e506dhat3gnvv09b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.sukhikh.telegramversion",
+            "certificate_hash": "5711a888042184048bffbcf4e9ddc5214951567c"
+          }
+        },
+        {
+          "client_id": "242898130104-d3mo9vn0g14epspalfiqg9oen5jcr8e2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMQZj1U7RU914tx3WbO4ZoG4bB8V6Gims"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "242898130104-d3mo9vn0g14epspalfiqg9oen5jcr8e2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
