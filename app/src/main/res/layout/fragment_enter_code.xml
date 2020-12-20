@@ -47,6 +47,7 @@
         android:maxLength="6"
         android:gravity="center"
         android:hint="@string/default_phone"
+        android:layout_width="wrap_content"
         android:id="@+id/register_input_code"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
